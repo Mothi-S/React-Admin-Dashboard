@@ -38,5 +38,5 @@ A modern, customizable React Admin Dashboard built with [Create React App](https
 
 ## 📸 Screenshots
 
-![Preview](./dashboard-preview/dashboard-preview.png)
+![Preview](./dashboard-preview.png)
 
