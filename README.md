@@ -24,16 +24,6 @@ A modern, customizable React Admin Dashboard built with [Create React App](https
 - Google Fonts
 - React Router DOM
 
-## 📁 Folder Structure (Simplified)
-
-src/
-├── components/ # Reusable UI components (e.g., Sidebar, Header)
-├── scenes/ # Dashboard pages (Charts, Calendar, Forms, etc.)
-├── data/ # Static or fetched data
-├── theme.js # Theme and color mode logic
-├── App.js
-├── index.js
-
 ## 📦 Installation
 
 1. **Clone the repo**
@@ -48,5 +38,5 @@ src/
 
 ## 📸 Screenshots
 
-![Dashboard Preview](./dashboard-preview.png)
+![Preview](./dashboard-preview/dashboard-preview.png)
 
